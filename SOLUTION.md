@@ -158,14 +158,8 @@ screenshots/06-access-denied-proof.png
 - [❎ ] Response includes `AccessKeyId`, `SecretAccessKey`, `Token`, and an `Expiration`
 
 ```
-{
-  "Code" : "Success",
-  "LastUpdated" : "2026-07-16T14:30:40Z",
-  "Type" : "AWS-HMAC",
-  "AccexxKeyId" : "xxxxxxx",
-  "SecxxAccexxKey" : "x1r+U1wf7xxxx",
-  "Tokxx" : "IQoJb3Jpxx",
-  "Expiration" : "2026-07-16T20:32:28Z"}
+
+failed to push some refs to Github due to Github policies.
 
 ```
 
