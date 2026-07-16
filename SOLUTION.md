@@ -162,9 +162,9 @@ screenshots/06-access-denied-proof.png
   "Code" : "Success",
   "LastUpdated" : "2026-07-16T14:30:40Z",
   "Type" : "AWS-HMAC",
-  "AccessKeyId" : "ASIAENEPLDQ",
-  "SecretAccessKey" : "x1r+U1wf7ir1q0e3h0YypUOkbL16dEky",
-  "Token" : "IQoJb3JpZ2luX2VjEH4aCmV1LW5vcnRoLTEiRzBFAiEAlTxeM5FZmB+3EjDQckx+tkBwugFZDD9hg9G2Q/gRwODCa1uPSBjqxAUfTsNz+h6LXEPxmO5Xb/m6HFMoVtE0dlrfZhPk541E0lVjOVU2esXtRXDrDEhpjLrgu/6wUBcRg1jZshPXJm1z6XlukgulO3mdsf9kwqKO+g9prKfxWLOaL1RmrCig2HOTliSxuhz1BtAgho1C4XLtmVZyQji6NVM9auHeIExehW2VAmsHwo/TW5RS/gbAePTQmuwn2qKvoiHjF9YMSSf5oXkemClVmRNUsd0ThJDvMig==",
+  "AccessKeyId" : "xxxxxxx",
+  "SecretAccessKey" : "x1r+U1wf7xxxx",
+  "Token" : "IQoJb3JpZ2luX2VjEH4axQji6NVM9auHeIExehW2VAmsHwo/TW5RS/gbAePTQmuwn2qKvoiHjF9YMSSf5oXkemClVmRNUsd0ThJDvMig==",
   "Expiration" : "2026-07-16T20:32:28Z"}
 
 ```
