@@ -177,12 +177,12 @@ failed to push some refs to Github due to Github policies.
 
 Repository name: `ce-lab-iam-roles-ec2` (**public**)
 
-- [ ] `policies/s3-cloudwatch-policy.json` and `policies/trust-policy.json` committed
-- [ ] `test-output/` files committed (commands, S3 test, access-denied test)
-- [ ] All 6 screenshots present
-- [ ] `README.md` complete with reflections
-- [ ] Policy uses **both** ARN forms
-- [ ] `get-caller-identity` shows `assumed-role/`
-- [ ] `~/.aws/credentials` does **not** exist on the instance
-- [ ] Account ID redacted (if I chose to)
-- [ ] Repository URL submitted
+- [❎] `policies/s3-cloudwatch-policy.json` and `policies/trust-policy.json` committed
+- [❎] `test-output/` files committed (commands, S3 test, access-denied test)
+- [❎] All 6 screenshots present
+- [❎] `README.md` complete with reflections
+- [❎] Policy uses **both** ARN forms
+- [❎] `get-caller-identity` shows `assumed-role/`
+- [❎] `~/.aws/credentials` does **not** exist on the instance
+- [❎] Account ID redacted (if I chose to)
+- [❎] Repository URL submitted
