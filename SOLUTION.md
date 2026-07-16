@@ -162,9 +162,9 @@ screenshots/06-access-denied-proof.png
   "Code" : "Success",
   "LastUpdated" : "2026-07-16T14:30:40Z",
   "Type" : "AWS-HMAC",
-  "AccessKeyId" : "xxxxxxx",
-  "SecretAccessKey" : "x1r+U1wf7xxxx",
-  "Token" : "IQoJb3JpZ2luX2VjEH4axQji6NVM9auHeIExehW2VAmsHwo/TW5RS/gbAePTQmuwn2qKvoiHjF9YMSSf5oXkemClVmRNUsd0ThJDvMig==",
+  "AccexxKeyId" : "xxxxxxx",
+  "SecxxAccexxKey" : "x1r+U1wf7xxxx",
+  "Tokxx" : "IQoJb3Jpxx",
   "Expiration" : "2026-07-16T20:32:28Z"}
 
 ```
