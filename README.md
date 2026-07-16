@@ -57,7 +57,7 @@ aws s3 mb s3://ce-bootcamp-m2-05-YOURNAME   # mb = "make bucket"
 aws s3 ls                                   # list all buckets to confirm it exists
 ```
 
-**Write down your bucket name:** `_______________________`
+**Write down your bucket name:** `ce-bootcamp-m2-05-faramarz`
 
 **Expected outcome:** The bucket appears in `aws s3 ls`.
 
